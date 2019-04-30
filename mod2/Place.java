@@ -1,4 +1,3 @@
-// updated after merge
 package mod2;
 
 public final class Place 
